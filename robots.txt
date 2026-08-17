@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ywdmmc.pixk.link/sitemap.xml
